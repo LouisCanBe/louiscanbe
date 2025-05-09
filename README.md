@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 
 **LouisCanBe/louiscanbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # 👋 你好，我是 LouisCanBe
+![Last commit](https://img.shields.io/github/last-commit/LouisCanBe/LouisCanBe)
+![Views](https://komarev.com/ghpvc/?username=LouisCanBe&color=green)
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/LouisCanBe?style=social)](https://github.com/LouisCanBe)
 ![Last commit](https://img.shields.io/github/last-commit/LouisCanBe/LouisCanBe)
@@ -63,7 +64,7 @@ Hi, I’m **LouisCanBe** — a cross-disciplinary system builder with an archite
 
 - **语言：** JavaScript（React）、Python  
 - **框架：** Next.js、Tauri、Vue、LangChain  
-- **工具：** VS Code、Figma、Rhino Compute API、Git  
+- **工具：** VS Code、Cursor、Figma、Rhino Compute API、Git  
 - **方向：** 原型开发、多智能体系统、知识管理、可持续设计
 
 
