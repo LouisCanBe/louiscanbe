@@ -71,7 +71,6 @@ Hi, I’m **LouisCanBe** — a cross-disciplinary system builder with an archite
 
 ## 🚧 当前项目
 
-- `🌐` 使用 **Vue + Tauri** 重构 [folder-explorer](https://github.com/d2-projects/folder-explorer)  
 - `🧱` 多智能体系统实验：思考智能角色与界面/知识协作方式  
 - `📚` 设计语义化的个人知识管理系统，结构+长期主义  
 - `♻️` 探索 AI 工具如何支持绿色设计实践
